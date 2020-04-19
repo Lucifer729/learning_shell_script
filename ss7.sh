@@ -1,0 +1,1 @@
+echo the total no of files are $#
